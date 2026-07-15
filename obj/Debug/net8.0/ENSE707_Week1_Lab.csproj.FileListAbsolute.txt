@@ -1,0 +1,15 @@
+C:\Users\ruzze\UNI\ENSE707_Week1_Lab\bin\Debug\net8.0\ENSE707_Week1_Lab.exe
+C:\Users\ruzze\UNI\ENSE707_Week1_Lab\bin\Debug\net8.0\ENSE707_Week1_Lab.deps.json
+C:\Users\ruzze\UNI\ENSE707_Week1_Lab\bin\Debug\net8.0\ENSE707_Week1_Lab.runtimeconfig.json
+C:\Users\ruzze\UNI\ENSE707_Week1_Lab\bin\Debug\net8.0\ENSE707_Week1_Lab.dll
+C:\Users\ruzze\UNI\ENSE707_Week1_Lab\bin\Debug\net8.0\ENSE707_Week1_Lab.pdb
+C:\Users\ruzze\UNI\ENSE707_Week1_Lab\obj\Debug\net8.0\ENSE707_Week1_Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruzze\UNI\ENSE707_Week1_Lab\obj\Debug\net8.0\ENSE707_Week1_Lab.AssemblyInfoInputs.cache
+C:\Users\ruzze\UNI\ENSE707_Week1_Lab\obj\Debug\net8.0\ENSE707_Week1_Lab.AssemblyInfo.cs
+C:\Users\ruzze\UNI\ENSE707_Week1_Lab\obj\Debug\net8.0\ENSE707_Week1_Lab.csproj.CoreCompileInputs.cache
+C:\Users\ruzze\UNI\ENSE707_Week1_Lab\obj\Debug\net8.0\ENSE707_Week1_Lab.sourcelink.json
+C:\Users\ruzze\UNI\ENSE707_Week1_Lab\obj\Debug\net8.0\ENSE707_Week1_Lab.dll
+C:\Users\ruzze\UNI\ENSE707_Week1_Lab\obj\Debug\net8.0\refint\ENSE707_Week1_Lab.dll
+C:\Users\ruzze\UNI\ENSE707_Week1_Lab\obj\Debug\net8.0\ENSE707_Week1_Lab.pdb
+C:\Users\ruzze\UNI\ENSE707_Week1_Lab\obj\Debug\net8.0\ENSE707_Week1_Lab.genruntimeconfig.cache
+C:\Users\ruzze\UNI\ENSE707_Week1_Lab\obj\Debug\net8.0\ref\ENSE707_Week1_Lab.dll
